@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clementD99
 - 👀 I’m interested in programmation
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 I’m currently learning HTML/CSS/React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Sur github/on Github
 - 😄 Pronouns: ...
